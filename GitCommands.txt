@@ -6,3 +6,6 @@ git config --global user.email "git useremail"
 git add --all/<filename>
 git commit -m "message"
 git push -u origin <branch-name>/main
+
+git clone
+git status

@@ -10,3 +10,4 @@ git push -u origin <branch-name>/main
 git clone
 git status
 git pull
+git branch
